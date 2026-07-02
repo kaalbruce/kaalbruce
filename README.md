@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate tech enthusiast, and a part-time coder.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kaalbruce&label=Profile%20views&color=0e75b6&style=flat" alt="kaalbruce" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaalbruce&label=Profile%20views&color=0e75b6&style=flat" alt="kaalbruce" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaalbruce" alt="kaalbruce" /></a> </p>
 
