@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **abhishekandpc@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1osxFFh22skc6Zp1fctfGHpNE08Y1GPt-/view?usp=sharing](https://drive.google.com/file/d/1osxFFh22skc6Zp1fctfGHpNE08Y1GPt-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1UQq8tpvTqvLUjSy-pt-T3-ScvAKIWaVB?usp=drive_link](https://drive.google.com/drive/folders/1UQq8tpvTqvLUjSy-pt-T3-ScvAKIWaVB?usp=drive_link)
 
 - ⚡ Fun fact **This is the End!**
 
